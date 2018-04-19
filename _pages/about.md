@@ -1,13 +1,10 @@
 ---
-ID: 19
+ID: 259
 post_title: About
 author: titans
 post_excerpt: ""
 layout: page
-permalink: http://localhost/wordpress/about/
+permalink: http://investwise.info/about/
 published: true
-post_date: 2018-03-22 09:28:53
+post_date: 2018-04-19 21:12:53
 ---
-<h3> </h3><h3>About Us</h3><p>InvestWise is an initiative towards dispelling rumors pertaining to suburbs in Melbourne. Our software solution presents a  system to confirm and refute investment speculation about different suburbs that an investor may have read in the media or heard from friends and family. The system assists in making well-informed and highly rewarding investment decisions and helps to prevent huge opportunity costs. It allows investors to draw data driven insights to identify the best suburb to invest in, by comparing recent data to the historical data of a high performing suburb.</p><h5> </h5><h5>Our aim</h5><p>Our aim is to eradicate misconceptions and address concerns surrounding the suburbs of Melbourne. Our rich data driven insights provides effective suggestions that help investors save crucial time and effort.</p><p>Moreover, our solution provides a platform for investors to actively engage and understand various property trends in suburbs of Melbourne. It effectively dispels any exaggerated, preconceived notions surrounding real state that are proliferated by social network, media or word of mouth. Furthermore, it provides predictive analysis of property in a specific suburb along with other factors associated with it that greatly influences an investment decision such as price, crime, education, and other essential amenities.</p>		
-										<img width="640" height="640" src="http://localhost/wordpress/wp-content/uploads/2018/03/real-estate-2955057_1920-1024x1024.jpg" alt="" srcset="http://localhost/wordpress/wp-content/uploads/2018/03/real-estate-2955057_1920-1024x1024.jpg 1024w, http://localhost/wordpress/wp-content/uploads/2018/03/real-estate-2955057_1920-150x150.jpg 150w, http://localhost/wordpress/wp-content/uploads/2018/03/real-estate-2955057_1920-300x300.jpg 300w, http://localhost/wordpress/wp-content/uploads/2018/03/real-estate-2955057_1920-768x768.jpg 768w" sizes="(max-width: 640px) 100vw, 640px" />											
-										<img width="640" height="450" src="http://localhost/wordpress/wp-content/uploads/2018/03/hand-3123229_1920-1024x720.jpg" alt="" srcset="http://localhost/wordpress/wp-content/uploads/2018/03/hand-3123229_1920-1024x720.jpg 1024w, http://localhost/wordpress/wp-content/uploads/2018/03/hand-3123229_1920-300x211.jpg 300w, http://localhost/wordpress/wp-content/uploads/2018/03/hand-3123229_1920-768x540.jpg 768w" sizes="(max-width: 640px) 100vw, 640px" />
