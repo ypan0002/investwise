@@ -52,6 +52,8 @@ post_date: 2018-03-22 09:28:18
  <h3>Median House Prices</h3>
  <p>Text content</p>
  
+ <img src="http://investwise.info/wp-content/uploads/2018/04/pexels-photo-590011.jpeg" alt="pexels-photo-590011" srcset="http://investwise.info/wp-content/uploads/2018/04/pexels-photo-590011.jpeg 640w, http://investwise.info/wp-content/uploads/2018/04/pexels-photo-590011-300x198.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" /> 
+ 
  <img src="http://investwise.info/wp-content/uploads/2018/03/money-2724248_1920.jpg" alt="money-2724248_1920" srcset="http://investwise.info/wp-content/uploads/2018/03/money-2724248_1920.jpg 1920w, http://investwise.info/wp-content/uploads/2018/03/money-2724248_1920-300x178.jpg 300w, http://investwise.info/wp-content/uploads/2018/03/money-2724248_1920-768x454.jpg 768w, http://investwise.info/wp-content/uploads/2018/03/money-2724248_1920-1024x606.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /> 
  <h3 style="text-align: right;">House Rent Analysis</h3>
  <h3>Education Level Data</h3>
@@ -59,4 +61,7 @@ post_date: 2018-03-22 09:28:18
  <img src="http://investwise.info/wp-content/uploads/2018/04/stack-of-books-1001655_640.jpg" alt="stack-of-books-1001655_640" srcset="http://investwise.info/wp-content/uploads/2018/04/stack-of-books-1001655_640.jpg 640w, http://investwise.info/wp-content/uploads/2018/04/stack-of-books-1001655_640-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /> 
  
  <img src="http://investwise.info/wp-content/uploads/2018/04/chart-1545734_1280.jpg" alt="chart-1545734_1280" srcset="http://investwise.info/wp-content/uploads/2018/04/chart-1545734_1280.jpg 1280w, http://investwise.info/wp-content/uploads/2018/04/chart-1545734_1280-300x189.jpg 300w, http://investwise.info/wp-content/uploads/2018/04/chart-1545734_1280-768x485.jpg 768w, http://investwise.info/wp-content/uploads/2018/04/chart-1545734_1280-1024x646.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /> 
- <h3>Prediction Model</h3><!--/themify_builder_static-->
+ <h3>Prediction Model</h3>
+ <h3>Mortgage Calculator</h3>
+ 
+ <img src="http://investwise.info/wp-content/uploads/2018/04/office-1574717_640.jpg" alt="office-1574717_640" srcset="http://investwise.info/wp-content/uploads/2018/04/office-1574717_640.jpg 640w, http://investwise.info/wp-content/uploads/2018/04/office-1574717_640-300x205.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /><!--/themify_builder_static-->
