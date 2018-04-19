@@ -32,22 +32,22 @@ post_date: 2018-03-22 09:28:18
  <h2 style="text-align: center;">Features</h2>
  <p style="text-align: center;">Our website provides data analysis on trends and performance of suburbs in Melbourne with key attributes such as house prices, income, education and rent.</p>
  
+ <a href="http://investwise.info/services/" > 
+ 
+ </a> 
+ <h3><a href="http://investwise.info/services/">Explore Trends</a></h3> <p>Discover more suburbs and explore trends across key aspects such as House prices, affordability, incomes, education level, rent-vesting.</p> 
  
  
+ <a href="http://investwise.info/services/" > 
  
- <h3>Explore Trends</h3> <p>Discover more suburbs and explore trends across key aspects such as House prices, affordability, incomes, education level, rent-vesting.</p> 
- 
- 
- 
- 
- 
- <h3>Property Prediction</h3> <p>Peek into the future with our prediction module to have formulate a road-map for investment and realize the true potential as to how a suburb can perform in the future.</p> 
+ </a> 
+ <h3><a href="http://investwise.info/services/">Property Prediction</a></h3> <p>Peek into the future with our prediction module to have formulate a road-map for investment and realize the true potential as to how a suburb can perform in the future.</p> 
  
  
+ <a href="http://investwise.info/services/" > 
  
- 
- 
- <h3>Calculate Mortgage</h3> <p>Plan your finances better and have an estimate of the  monthly mortgage costs along with the median rental income.</p> 
+ </a> 
+ <h3><a href="http://investwise.info/services/">Calculate Mortgage</a></h3> <p>Plan your finances better and have an estimate of the  monthly mortgage costs along with the median rental income.</p> 
  
  <h3>Median House Prices</h3>
  <h3>Crime Data</h3>
