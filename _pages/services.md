@@ -8,4 +8,4 @@ permalink: http://investwise.info/services/
 published: true
 post_date: 2018-04-19 21:24:14
 ---
-<iframe src="https://public.tableau.com/shared/KFBFG87T8?:showVizHome=no&amp;:embed=true" width="1600" height="900"></iframe>
+<iframe src="https://public.tableau.com/shared/KFBFG87T8?:showVizHome=no&amp;:embed=true" width="1200" height="800"></iframe>
