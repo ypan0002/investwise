@@ -18,7 +18,7 @@ post_date: 2018-03-22 09:28:18
  <h2>About Us</h2>
  <p>We aim to corroborate investment advice, reaffirm real estate theories surrounding the suburbs of Melbourne and help identify high performing investment options.</p>
  <h2 style="text-align: center;">Features</h2>
- <p>Our website provides data analysis on trends and performance of suburbs in Melbourne with key attributes such as house prices, income, education and rent.</p>
+ <p style="text-align: center;">Our website provides data analysis on trends and performance of suburbs in Melbourne with key attributes such as house prices, income, education and rent.</p>
  
  
  
