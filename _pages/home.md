@@ -41,7 +41,7 @@ post_date: 2018-03-22 09:28:18
  <a href="http://investwise.info/services/" > 
  
  </a> 
- <h3><a href="http://investwise.info/services/">Property Prediction</a></h3> <p>Peek into the future with our prediction module to have formulate a road-map for investment and realize the true potential as to how a suburb can perform in the future.</p> 
+ <h3><a href="http://investwise.info/services/">Property Prediction</a></h3> <p>Peek into the future with our prediction module to formulate a road-map for investment and realize the true potential as to how a suburb can perform in the future.</p> 
  
  
  <a href="http://investwise.info/services/" > 
@@ -68,4 +68,6 @@ post_date: 2018-03-22 09:28:18
  <h3>Mortgage Calculator</h3>
  <p>Make the best use of our tools to calculate mortgage costs and compare the yield of investing in the suburb of your choice.</p>
  
- <img src="http://investwise.info/wp-content/uploads/2018/04/office-1574717_640.jpg" alt="office-1574717_640" srcset="http://investwise.info/wp-content/uploads/2018/04/office-1574717_640.jpg 640w, http://investwise.info/wp-content/uploads/2018/04/office-1574717_640-300x205.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /><!--/themify_builder_static-->
+ <img src="http://investwise.info/wp-content/uploads/2018/04/office-1574717_640.jpg" alt="office-1574717_640" srcset="http://investwise.info/wp-content/uploads/2018/04/office-1574717_640.jpg 640w, http://investwise.info/wp-content/uploads/2018/04/office-1574717_640-300x205.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /> 
+ 
+ <a href="http://investwise.info/services" >Explore Our Services</a><!--/themify_builder_static-->
