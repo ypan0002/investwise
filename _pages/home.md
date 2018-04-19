@@ -57,7 +57,7 @@ post_date: 2018-03-22 09:28:18
  <img src="http://investwise.info/wp-content/uploads/2018/03/money-2724248_1920.jpg" alt="money-2724248_1920" srcset="http://investwise.info/wp-content/uploads/2018/03/money-2724248_1920.jpg 1920w, http://investwise.info/wp-content/uploads/2018/03/money-2724248_1920-300x178.jpg 300w, http://investwise.info/wp-content/uploads/2018/03/money-2724248_1920-768x454.jpg 768w, http://investwise.info/wp-content/uploads/2018/03/money-2724248_1920-1024x606.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /> 
  <h3 style="text-align: right;">House Rent Analysis</h3>
  <p>Reaffirm rent prices in suburbs to maximize returns and analyse affordability with our data rich resources. Moreover, discover the perfect investment opportunity in terms of room size, weekly rent for easy rent-vesting.</p>
- <h3>Education Level Data</h3>
+ <h3>Education Data Analysis</h3>
  <p>Correlate Education level with a suburb of choice to ascertain livability of the best of neighborhoods.  </p>
  
  <img src="http://investwise.info/wp-content/uploads/2018/04/stack-of-books-1001655_640.jpg" alt="stack-of-books-1001655_640" srcset="http://investwise.info/wp-content/uploads/2018/04/stack-of-books-1001655_640.jpg 640w, http://investwise.info/wp-content/uploads/2018/04/stack-of-books-1001655_640-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /> 
