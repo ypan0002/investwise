@@ -13,7 +13,7 @@ post_date: 2018-03-22 09:28:18
  
  <a href="http://investwise.info/#ouraim" >Explore</a> 
  
- Icon label 
+ http://investwise.info/#ouraim 
  <h1>InvestWise</h1>
  <p>We help people to invest in the right suburb.</p>
  
