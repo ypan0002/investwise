@@ -23,6 +23,8 @@ post_date: 2018-03-22 09:28:18
  <a href="http://investwise.info/about/" >About Us</a> 
  
  <img src="http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920.jpg" alt="purchase-3113198_1920" srcset="http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920.jpg 1920w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-300x200.jpg 300w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-768x512.jpg 768w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-1024x683.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /> 
+ 
+ <img src="http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920.jpg" alt="purchase-3113198_1920" srcset="http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920.jpg 1920w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-300x200.jpg 300w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-768x512.jpg 768w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-1024x683.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /> 
  <h2 style="text-align: center;">Features</h2>
  <p style="text-align: center;">Our website provides data analysis on trends and performance of suburbs in Melbourne with key attributes such as house prices, income, education and rent.</p>
  
