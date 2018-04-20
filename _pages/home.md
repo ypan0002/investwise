@@ -15,7 +15,7 @@ post_date: 2018-03-22 09:28:18
  <h1>InvestWise</h1>
  <p>We help people to invest in the right suburb.</p>
  
- <a href="http://investwise.info/#ouraimmobile" >Explore</a> 
+ <a href="http://investwise.info/#ouraim" >Explore</a> 
  <p style="text-align: center;">Allow us to demystify the suburbs of Melbourne.</p>
  <h2>Our Aim</h2>
  <p>We aim to corroborate investment advice, reaffirm real estate theories surrounding the suburbs of Melbourne and help identify high performing investment options.</p>
