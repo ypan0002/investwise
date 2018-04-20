@@ -13,7 +13,7 @@ post_date: 2018-03-22 09:28:18
  
  <a href="http://investwise.info/#ouraim" >Explore</a> 
  
- <a href="http://investwise.info/wordpress/#ouraim"> </a> 
+ <a href="http://investwise.info/#ouraim"> </a> 
  <h1>InvestWise</h1>
  <p>We help people to invest in the right suburb.</p>
  
