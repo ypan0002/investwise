@@ -1,6 +1,6 @@
 ---
 ID: 270
-post_title: Services
+post_title: Suburb Explorer
 author: titans
 post_excerpt: ""
 layout: page
