@@ -1,6 +1,6 @@
 ---
 ID: 393
-post_title: Home
+post_title: Homepage
 author: titans
 post_excerpt: ""
 layout: page
