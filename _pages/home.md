@@ -11,22 +11,14 @@ post_date: 2018-03-22 09:28:18
 <!--themify_builder_static--><h1>InvestWise</h1>
  <p>We help people to invest in the right suburb.</p>
  
- <a href="http://investwise.info/#ouraim" >Explore</a> 
+ <a href="http://investwise.info/#features" >Explore</a> 
  
- <a href="http://investwise.info/#ouraim"> </a> 
+ <a href="http://investwise.info/#features"> </a> 
  <h1>InvestWise</h1>
  <p>We help people to invest in the right suburb.</p>
  
- <a href="http://investwise.info/#ouraim" >Explore</a> 
+ <a href="http://investwise.info/#features" >Explore</a> 
  <p style="text-align: center;">Allow us to demystify the suburbs of Melbourne.</p>
- <h2>Our Aim</h2>
- <p>We aim to corroborate investment advice, reaffirm real estate theories surrounding the suburbs of Melbourne and help identify high performing investment options.</p>
- 
- <a href="http://investwise.info/about/" >About Us</a> 
- 
- <img src="http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920.jpg" alt="purchase-3113198_1920" srcset="http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920.jpg 1920w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-300x200.jpg 300w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-768x512.jpg 768w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-1024x683.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /> 
- 
- <img src="http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920.jpg" alt="purchase-3113198_1920" srcset="http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920.jpg 1920w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-300x200.jpg 300w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-768x512.jpg 768w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-1024x683.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /> 
  <h2 style="text-align: center;">Features</h2>
  <p style="text-align: center;">Our website provides a suburb explorer that presents data analysis on trends and performance of suburbs in Melbourne with key attributes such as house prices, income, education and rent.</p>
  
@@ -68,4 +60,12 @@ post_date: 2018-03-22 09:28:18
  
  <img src="http://investwise.info/wp-content/uploads/2018/04/office-1574717_640.jpg" alt="office-1574717_640" srcset="http://investwise.info/wp-content/uploads/2018/04/office-1574717_640.jpg 640w, http://investwise.info/wp-content/uploads/2018/04/office-1574717_640-300x205.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /> 
  
- <a href="http://investwise.info/suburbexplorer" >Visit our Suburb Explorer</a><!--/themify_builder_static-->
+ <a href="http://investwise.info/suburbexplorer" >Visit our Suburb Explorer</a> 
+ <h2>Our Aim</h2>
+ <p>We aim to corroborate investment advice, reaffirm real estate theories surrounding the suburbs of Melbourne and help identify high performing investment options.</p>
+ 
+ <a href="http://investwise.info/about/" >About Us</a> 
+ 
+ <img src="http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920.jpg" alt="purchase-3113198_1920" srcset="http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920.jpg 1920w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-300x200.jpg 300w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-768x512.jpg 768w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-1024x683.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /> 
+ 
+ <img src="http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920.jpg" alt="purchase-3113198_1920" srcset="http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920.jpg 1920w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-300x200.jpg 300w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-768x512.jpg 768w, http://investwise.info/wp-content/uploads/2018/03/purchase-3113198_1920-1024x683.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /><!--/themify_builder_static-->
