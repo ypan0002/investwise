@@ -45,8 +45,44 @@ h1 {
 	color: #ffffff; 
 }
 @media screen and (max-width: 1280px) { /* Themify Customize Styling */
+body {		font-weight:300;
+ 
+}
+h1 {		font-weight:300;
+ 
+}
+#headerwrap {	background: none;
+	background-color: #3b3b3b; 
+}
 #site-logo img {		width: 150px;
 	height: 47px; 
+}
+#main-nav a {		font-weight:300;
+ 
+}
+#main-nav a, #main-nav > li > a, .transparent-header #main-nav a {	
+	color: #ffffff; 
+}
+#main-nav-wrap #main-nav a:hover, #main-nav-wrap #main-nav > li > a:hover {	
+	color: #c2c2c2; 
+}
+#main-nav-wrap #main-nav .current_page_item a, #main-nav .current-menu-item a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #ffffff; 
+}
+#main-nav-wrap #main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #c2c2c2; 
+}
+#footerwrap {	background: none;
+	background-color: #292929; 
+}
+#footer {	
+	color: #ffffff; 
+}
+#footer, #footer-logo, .footer-nav a, .footer-text {		font-weight:300;
+ 
+}
+#footer a {	
+	color: #ffffff; 
 }
  }@media screen and (max-width: 768px) { /* Themify Customize Styling */
 #site-logo img {		width: 150px;
@@ -94,3 +130,9 @@ h1 {		font-weight:300;
 	color: #ffffff; 
 }
  }
+/* Themify Custom CSS */
+/* content */
+.page-id-270 #content 
+{
+	padding-top: 0.75%;
+}
